@@ -1,7 +1,8 @@
+//https://leetcode.com/problems/contains-duplicate/description/
+
 import java.util.Arrays;
 import java.util.HashSet;
 
-//https://leetcode.com/problems/contains-duplicate/description/
 
 public class ContainsDuplicate {
 	// solution 1
