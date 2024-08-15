@@ -55,6 +55,8 @@ public class TopKFrequentElements {
 
         int[] result = topKFrequent(nums, k);
 
+        scanner.close();
+
        System.out.println(Arrays.toString(result));
     }
 }
